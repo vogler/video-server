@@ -13,6 +13,8 @@ Goals:
 - Player features like YouTube:
   - Thumbnails on progress bar
   - Generated closed captions / subtitles
+  - Keyboard shortcuts (arrows, j/k/l)
+  - Adjust preferred playback speed
 - Advanced player features:
   - Skip intro/outro, pauses
   - Skip ads
@@ -20,6 +22,7 @@ Goals:
     - [YouTV](https://www.youtv.de/) has markers for ads in their UI
   - Show clickable transcript like [Coursera](https://www.coursera.org/)
   - Show waveform like [SoundCloud](https://soundcloud.com/)
+  - Ajust speed by spoken wpm
 
 ### Related
 
@@ -33,6 +36,11 @@ Alternative YouTube clients:
 - Web:
   - https://github.com/FreeTubeApp/FreeTube 7k
   - https://github.com/TeamPiped/Piped 4.3k
+
+Used in browser:
+- https://github.com/igrigorik/videospeed Video Speed Controller extension to change speed of every video
+- [video-scroll-seek.tamper.js](https://gist.github.com/vogler/b7c66088cd22f899496f353d5295b7ad) Tampermonkey: video: scroll=seek - Scrolling a video seeks back/forward
+- [youtube-progress-always.tamper.js](https://gist.github.com/vogler/f0bba0a52a6fed61afab19245e72b5d4) Tampermonkey: YouTube: always show an additional progress bar below the video (not just on mouse move or pause)
 
 Video players used for local files:
 - macOS: [IINA](https://github.com/iina/iina)
