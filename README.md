@@ -14,6 +14,7 @@ Goals:
   - Thumbnails on progress bar
   - Generated closed captions / subtitles
 - Advanced player features:
+  - Skip intro/outro, pauses
   - Skip ads
     - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) for YouTube
     - [YouTV](https://www.youtv.de/) has markers for ads in their UI
