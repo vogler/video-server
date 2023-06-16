@@ -41,8 +41,13 @@ Used in browser:
 - https://github.com/igrigorik/videospeed Video Speed Controller extension to change speed of every video
 - [video-scroll-seek.tamper.js](https://gist.github.com/vogler/b7c66088cd22f899496f353d5295b7ad) Tampermonkey: video: scroll=seek - Scrolling a video seeks back/forward
 - [youtube-progress-always.tamper.js](https://gist.github.com/vogler/f0bba0a52a6fed61afab19245e72b5d4) Tampermonkey: YouTube: always show an additional progress bar below the video (not just on mouse move or pause)
+- [youtube-time-left.tamper.js](https://gist.github.com/vogler/451aa48d0af7b659e391fdbeeea0d9d8) Tampermonkey: YouTube: show time left in title
+- [youtube-watch-later-status.tamper.js](https://gist.github.com/vogler/aeeb2078d2e30ea5aa0240c0320fc35b) Tampermonkey: YouTube: button for Watch Later (shows status, allows to toggle)
 
 Video players used for local files:
 - macOS: [IINA](https://github.com/iina/iina)
 - Windows: [PotPlayer](https://potplayer.daum.net/)
 - Linux: [mpv](https://github.com/mpv-player/mpv)
+
+Further resources:
+- https://github.com/krzemienski/awesome-video A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
