@@ -52,3 +52,4 @@ Video players used for local files:
 
 Further resources:
 - https://github.com/krzemienski/awesome-video A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+- https://github.com/jrtechs/HomeBrewPlex similar idea, simple video hosting with node, no special player features
