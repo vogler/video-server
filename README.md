@@ -22,7 +22,8 @@ Goals:
     - [YouTV](https://www.youtv.de/) has markers for ads in their UI
   - Show clickable transcript like [Coursera](https://www.coursera.org/)
   - Show waveform like [SoundCloud](https://soundcloud.com/)
-  - Ajust speed by spoken wpm
+  - Show played time ranges like on [bilibili](https://www.bilibili.com/)
+  - Adjust speed by spoken wpm
 
 ### Related
 
