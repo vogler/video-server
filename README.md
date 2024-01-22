@@ -10,12 +10,12 @@ Goals:
 
 - List videos in folder with thumbnail
 - Track what was watched (incl. which regions of a video) per user
-- Player features like YouTube:
+- Player features like YouTube
   - Thumbnails on progress bar
   - Generated closed captions / subtitles
   - Keyboard shortcuts (arrows, j/k/l)
   - Adjust preferred playback speed
-- Advanced player features:
+- Advanced player features
   - Skip intro/outro, pauses
   - Skip ads
     - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) for YouTube
@@ -24,6 +24,12 @@ Goals:
   - Show waveform like [SoundCloud](https://soundcloud.com/)
   - Show played time ranges like on [bilibili](https://www.bilibili.com/)
   - Adjust speed by spoken wpm
+- Search/organization
+  - Search transcripts of all all (watched) videos ([example](https://github.com/cmf/huberman) using `yt-dlp`)
+  - YouTube
+    - Statistics of (not) watched videos: time left to watch, how much time per day, how much time saved by speedup, how much time skipped etc., maybe play around with data for improving recommendations
+    - Better sorting/filtering/statistics of video lists
+    - Group similar videos by meta-data (length, title, description, category) or even content from transcript
 
 ### Related
 
