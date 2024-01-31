@@ -41,8 +41,10 @@ Alternative YouTube clients:
   - https://github.com/yuliskov/SmartTubeNext 10.1k Android/TV <- using on FireTV Stick 4K Max
   - https://github.com/libre-tube/LibreTube 5k Android
 - Web:
-  - https://github.com/FreeTubeApp/FreeTube 7k
-  - https://github.com/TeamPiped/Piped 4.3k
+  - https://github.com/FreeTubeApp/FreeTube 11k
+  - https://github.com/TeamPiped/Piped 7k
+- Terminal:
+  - https://github.com/mps-youtube/yewtube 7.8k
 
 Used in browser:
 - https://github.com/igrigorik/videospeed Video Speed Controller extension to change speed of every video
@@ -59,3 +61,4 @@ Video players used for local files:
 Further resources:
 - https://github.com/krzemienski/awesome-video A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - https://github.com/jrtechs/HomeBrewPlex similar idea, simple video hosting with node, no special player features
+- https://github.com/streamlink/streamlink CLI utility which pipes video streams from various services into a video player
