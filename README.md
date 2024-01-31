@@ -62,3 +62,4 @@ Further resources:
 - https://github.com/krzemienski/awesome-video A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - https://github.com/jrtechs/HomeBrewPlex similar idea, simple video hosting with node, no special player features
 - https://github.com/streamlink/streamlink CLI utility which pipes video streams from various services into a video player
+- https://github.com/4gray/iptvnator IPTV player application (PWA/Electron), supports m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup…
